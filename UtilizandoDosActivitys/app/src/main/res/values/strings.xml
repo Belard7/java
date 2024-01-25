@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UtilizandoDosActivitys</string>
+    <string  name="titulo">Determinar si eres mayor de edad</string>
+    <string name="nombre"> Escriba su Nombre</string>
+    <string name="edad">Escriba su edad</string>
+    <string name="enviarDatos">Enviar Datos</string>
+    <string name="volver">Pantalla anterior</string>
+</resources>
