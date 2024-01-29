@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaDos</string>
+    <string name="configuracion">Configuración</string>
+    <string name="informacion">Informacion</string>
+</resources>
