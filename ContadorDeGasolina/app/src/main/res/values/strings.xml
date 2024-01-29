@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContadorDeGasolina</string>
+    <string name="Titulo">Contador de Gasolina</string>
+    <string name="Kilometros">Escriba los Kilometros recorridos</string>
+    <string name="boton">Continuar</string>
+    <string name="Gas">Escriba los litros de gasolina</string>
+    <string name="Resultado">El rendimiento es de: </string>
+    <string name="contador">Contador</string>
+    <string name="KM">KM</string>
+</resources>
