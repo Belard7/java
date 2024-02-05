@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConversorDeUnidades</string>
+    <string name="moneda">Conversor de Moneda</string>
+    <string name="volumen">Conversor de Volumen</string>
+    <string name="masa">Conversor de masa</string>
+    <string name="regresar">Regresar menu</string>
+    <string name="dolares">Dolares</string>
+    <string name="euros">Euros</string>
+    <string name="valor">Ingrese valor</string>
+    <string name="convertir">Convertir</string>
+    <string name="Conversor">Conversor de unidades</string>
+
+</resources>

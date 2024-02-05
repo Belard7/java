@@ -28,14 +28,16 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected( MenuItem opcion_menu) {
         int id = opcion_menu.getItemId();
         if (id == R.id.configuracion) {
-            Toast.makeText(this, "Configuracion", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "has elegido Configuracion", Toast.LENGTH_LONG).show();
             return true;
         }
         if (id == R.id.informacion) {
-            Toast.makeText(this, "Informacion", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Ahora seleccionaste Informacion", Toast.LENGTH_LONG).show();
             return true;
         }
 
      return super.onOptionsItemSelected(opcion_menu);
     }
 }
+
+
