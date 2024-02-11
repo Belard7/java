@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multimedia</string>
+    <string name="multimedia">Sporifity</string>
+    <string name="rvideo">Reproducir Video</string>
+    <string name="rmusica">Reproducir Musica</string>
+    <string name="latigo">Latigo</string>
+</resources>

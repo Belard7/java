@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     SensorEventListener sensorEventListener;
 
+    //variable para controlar el numero de giros
     int whip = 0;
 
     @Override
