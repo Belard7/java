@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PracticaSensores</string>
+    <string name="sensor">Sensor de proximidad</string>
+</resources>
