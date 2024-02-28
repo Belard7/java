@@ -4,4 +4,6 @@
     <string name="rvideo">Reproducir Video</string>
     <string name="rmusica">Reproducir Musica</string>
     <string name="latigo">Latigo</string>
+    <string name="caratula">Caratula</string>
+
 </resources>
